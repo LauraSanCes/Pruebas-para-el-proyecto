@@ -1,7 +1,9 @@
+
 import arcade
 
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
+ALFA= 0,5
 
 
 def draw_grass():
